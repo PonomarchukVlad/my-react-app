@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.d5aeb899.css",
+    "main.js": "/my-react-app/static/js/main.ab67bd54.js",
+    "static/media/2151682921.jpg": "/my-react-app/static/media/2151682921.b75e8f438734f3a058c7.jpg",
+    "static/media/cat4.jpg": "/my-react-app/static/media/cat4.023b94aa29e7d56c399c.jpg",
+    "static/media/catA4.jpg": "/my-react-app/static/media/catA4.e99bcd4390fb7328eca9.jpg",
+    "static/media/block_28556.jpg": "/my-react-app/static/media/block_28556.ee83ad04b1928b12eb2f.jpg",
+    "static/media/maldives.jpg": "/my-react-app/static/media/maldives.fce4772c098e6d3a3379.jpg",
+    "static/media/catA2.jpg": "/my-react-app/static/media/catA2.def1086ab66afeb12001.jpg",
+    "static/media/cat3.jpeg": "/my-react-app/static/media/cat3.d943134349255267e30a.jpeg",
+    "static/media/cat2.jpg": "/my-react-app/static/media/cat2.81f851e0f4ab1d551bea.jpg",
+    "static/media/cat1.jpg": "/my-react-app/static/media/cat1.2e6ea1c30ae186e8980f.jpg",
+    "index.html": "/my-react-app/index.html",
+    "main.d5aeb899.css.map": "/my-react-app/static/css/main.d5aeb899.css.map",
+    "main.ab67bd54.js.map": "/my-react-app/static/js/main.ab67bd54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5aeb899.css",
+    "static/js/main.ab67bd54.js"
+  ]
+}
